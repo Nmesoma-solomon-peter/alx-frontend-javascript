@@ -1,0 +1,19 @@
+{
+  "name": "0x00-es6_basic",
+  "version": "1.0.0",
+  "description": "readme file for es6 basics",
+  "main": "0-constants.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "D": "^1.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.12.0",
+    "jest": "^27.5.1"
+  }
+}
